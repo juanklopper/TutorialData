@@ -1,0 +1,9 @@
+age_var,chd_var,bald_var,freq_var
+old,CHD,bald,55
+old,CHD,not bald,5
+old,no CHD,bald,51
+old,no CHD,not bald,5
+young,CHD,bald,24
+young,CHD,not bald,281
+young,no CHD,bald,694
+young,no CHD,not bald,8285

@@ -1,0 +1,81 @@
+"record_id","timepoint","age","gender","race","provider_status","temperature_c","heart_rate","respiratory_rate","sp_o2","systolic_bp","diastolic_bp","group","pt_pain_t0","pt_dep_t0","pt_anx_t0","prov_pain_t0","prov_dep_t0","prov_anx_t0","pt_pain_t1","pt_dep_t1","pt_anx_t1","prov_pain_t1","prov_dep_t1","prov_anx_t1","pt_pain_t2","pt_dep_t2","pt_anx_t2","prov_pain_t2","prov_dep_t2","prov_anx_t2"
+"5","Baseline (T0)",41,"Female","White","Advanced Practitioner",36.9,76,16,100,147,77,"Dog",6,6,6,0,9,8,6,4,6,NA,NA,NA,6,6,6,NA,NA,NA
+"6","Baseline (T0)",58,"Male","White","Attending",37.5,119,20,94,191,102,"Dog",0,2,6,0,2,8,0,2,2,NA,NA,NA,0,2,2,0,2,2
+"9","Baseline (T0)",72,"Female","White","Attending",36.6,89,18,98,132,73,"Dog",2,8,10,0,10,4,0,10,6,NA,NA,NA,0,6,8,NA,NA,NA
+"10","Baseline (T0)",54,"Female","White","Resident",36.7,78,18,98,123,100,"Dog",10,6,6,2,2,4,0,0,0,NA,NA,NA,0,0,0,NA,NA,NA
+"11","Baseline (T0)",77,"Male","White","Attending",36.6,45,16,97,115,63,"Dog",10,8,10,6,5,7,10,10,10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","Baseline (T0)",43,"Female","White","Resident",37.3,98,24,94,158,106,"Dog",10,4,8,6,4,4,8,2,0,NA,NA,NA,8,0,2,NA,NA,NA
+"14","Baseline (T0)",30,"Male","Black or African-American","Resident",36.7,88,16,99,137,92,"Dog",10,4,6,0,4,5,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","Baseline (T0)",75,"Female","White","Advanced Practitioner",36.5,54,16,100,122,57,"Dog",7,0,6,7,6,6,7,0,6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","Baseline (T0)",37,"Male","More than one race","Resident",36.3,81,17,98,160,92,"Dog",6,8,8,2,10,6,6,4,6,NA,NA,NA,6,4,6,0,2,2
+"19","Baseline (T0)",25,"Female","Black or African-American","Attending",36.8,83,16,97,102,70,"Dog",4,8,8,0,0,6,4,6,8,0,2,2,4,6,8,NA,NA,NA
+"24","Baseline (T0)",63,"Female","White","Advanced Practitioner",37,100,18,99,113,73,"Dog",9,6,9,7,6,7,5,2,6,NA,NA,NA,0,0,0,NA,NA,NA
+"27","Baseline (T0)",51,"Female","Black or African-American","Attending",36.4,79,18,99,226,130,"Dog",8,0,4,6,4,4,8,0,0,NA,NA,NA,8,0,2,NA,NA,NA
+"29","Baseline (T0)",30,"Female","Other","Attending",37,94,18,99,108,71,"Dog",7,2,2,4,6,6,2,2,2,NA,NA,NA,2,2,2,NA,NA,NA
+"31","Baseline (T0)",45,"Female","White","Resident",37.1,100,18,100,136,63,"Dog",8,6,6,8,6,6,6,2,2,NA,NA,NA,6,2,2,4,2,2
+"35","Baseline (T0)",32,"Female","Black or African-American","Resident",37.3,70,18,100,100,77,"Dog",6,2,4,4,0,6,4,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","Baseline (T0)",72,"Female","Black or African-American","Resident",NA,112,20,100,143,112,"Dog",10,8,6,8,6,6,4,0,0,NA,NA,NA,4,0,0,NA,NA,NA
+"37","Baseline (T0)",58,"Female","Black or African-American","Advanced Practitioner",36.6,62,18,100,143,73,"Dog",8,2,6,9,6,6,4,2,2,2,2,2,4,0,0,NA,NA,NA
+"38","Baseline (T0)",34,"Male","White","Resident",NA,94,16,100,148,102,"Dog",4,0,2,4,4,6,0,0,0,2,2,4,NA,NA,NA,NA,NA,NA
+"40","Baseline (T0)",52,"Male","White","Resident",36.7,68,16,98,146,80,"Dog",8,6,6,10,2,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","Baseline (T0)",50,"Male","Black or African-American","Resident",36.7,82,16,100,169,121,"Dog",8,8,4,6,2,4,4,2,2,NA,NA,NA,2,2,2,4,2,4
+"46","Baseline (T0)",27,"Female","White","Attending",36.6,76,16,99,156,85,"Dog",2,10,10,0,4,4,0,8,4,NA,NA,NA,0,8,6,NA,NA,NA
+"47","Baseline (T0)",58,"Male","White","Advanced Practitioner",36.3,89,16,95,88,62,"Dog",8,6,4,6,8,6,6,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","Baseline (T0)",39,"Female","White","Resident",36.6,118,20,98,135,75,"Dog",4,8,8,4,6,6,4,4,6,NA,NA,NA,4,6,6,2,4,2
+"54","Baseline (T0)",52,"Female","White","Advanced Practitioner",36.6,81,18,98,114,54,"Dog",5,5,10,4,4,4,6,1,2,NA,NA,NA,6,1,1,2,2,2
+"56","Baseline (T0)",36,"Female","White","Resident",37.2,113,18,94,131,70,"Dog",7,7,10,8,8,9,7,9,10,NA,NA,NA,8,4,9,8,8,8
+"57","Baseline (T0)",20,"Male","Black or African-American","Resident",NA,126,18,97,142,101,"Dog",10,10,10,8,10,8,10,10,10,NA,NA,NA,10,10,10,NA,NA,NA
+"59","Baseline (T0)",29,"Female","Black or African-American","Advanced Practitioner",36.7,86,18,98,141,76,"Dog",0,8,8,0,4,6,0,2,0,NA,NA,NA,0,0,0,NA,NA,NA
+"61","Baseline (T0)",37,"Female","White","Resident",36.4,89,16,98,156,123,"Dog",10,2,4,8,6,7,10,0,0,NA,NA,NA,8,0,0,8,4,6
+"63","Baseline (T0)",42,"Female","White","Resident",36.8,73,16,100,143,101,"Dog",7,0,6,6,6,6,4,0,2,NA,NA,NA,2,0,2,NA,NA,NA
+"64","Baseline (T0)",70,"Female","Black or African-American","Resident",37,102,20,95,151,92,"Dog",4,4,2,6,6,6,2,2,0,NA,NA,NA,0,2,2,NA,NA,NA
+"68","Baseline (T0)",24,"Female","White","Resident",37.1,77,22,100,134,81,"Dog",8,10,8,2,4,6,8,6,6,NA,NA,NA,4,4,4,0,2,4
+"69","Baseline (T0)",50,"Female","White","Advanced Practitioner",37.2,113,24,100,91,73,"Dog",10,8,10,6,6,6,8,6,8,NA,NA,NA,9,10,7,6,6,6
+"72","Baseline (T0)",32,"Female","White","Attending",34.7,79,20,100,131,71,"Dog",5,7,3,0,4,4,5,5,2,NA,NA,NA,5,2,2,0,2,2
+"73","Baseline (T0)",45,"Female","Black or African-American","Resident",36.7,74,16,100,175,110,"Dog",4,10,10,8,8,6,0,9,6,NA,NA,NA,0,2,2,NA,NA,NA
+"74","Baseline (T0)",56,"Female","Black or African-American","Resident",37.2,94,16,96,125,96,"Dog",6,4,6,1,10,9,4,4,4,NA,NA,NA,4,4,4,NA,NA,NA
+"75","Baseline (T0)",35,"Female","Black or African-American","Resident",36.8,82,16,NA,115,52,"Dog",2,2,8,2,4,5,2,2,8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","Baseline (T0)",30,"Female","American Indian or Alaskan Native","Resident",36.4,116,18,100,160,101,"Dog",8,8,10,10,10,10,4,4,8,NA,NA,NA,3,5,8,2,8,6
+"79","Baseline (T0)",58,"Female","Black or African-American","Advanced Practitioner",36.8,88,16,100,147,83,"Dog",6,4,4,4,4,4,2,2,4,NA,NA,NA,4,4,6,NA,NA,NA
+"83","Baseline (T0)",39,"Female","White","Attending",36.8,129,33,100,131,100,"Dog",4,0,10,4,4,8,2,0,4,NA,NA,NA,0,0,2,NA,NA,NA
+"84","Baseline (T0)",42,"Female","White","Resident",36.7,79,22,95,122,79,"Dog",6,4,6,4,2,6,4,2,2,4,4,4,2,0,2,NA,NA,NA
+"2","Baseline (T0)",80,"Female","Black or African-American","Attending",NA,NA,NA,NA,NA,NA,"No Dog",0,4,4,0,4,6,0,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","Baseline (T0)",70,"Female","Black or African-American","Attending",97.5,88,16,97,142,84,"No Dog",4,6,6,1,9,5,2,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","Baseline (T0)",80,"Female","Black or African-American","Resident",36.2,90,28,100,164,103,"No Dog",10,8,8,4,5,6,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","Baseline (T0)",31,"Female","Black or African-American","Resident",36.9,89,18,98,128,80,"No Dog",4,4,2,6,8,6,2,2,2,2,4,4,NA,NA,NA,NA,NA,NA
+"8","Baseline (T0)",32,"Female","White","Resident",36.4,67,18,100,110,77,"No Dog",8,0,4,6,8,6,8,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","Baseline (T0)",33,"Male","Black or African-American","Resident",36.9,102,18,99,166,83,"No Dog",6,8,8,4,6,6,6,8,8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","Baseline (T0)",61,"Male","Black or African-American","Attending",36.3,94,14,100,152,105,"No Dog",10,6,6,4,6,4,7,6,8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","Baseline (T0)",44,"Female","White","Advanced Practitioner",36.6,117,18,100,130,77,"No Dog",8,10,10,2,6,6,6,10,10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","Baseline (T0)",34,"Male","Black or African-American","Resident",36.8,88,18,98,126,90,"No Dog",0,1,8,0,6,4,0,1,8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","Baseline (T0)",43,"Female","Black or African-American","Advanced Practitioner",36.9,114,18,97,194,133,"No Dog",4,6,6,4,6,6,2,8,6,NA,NA,NA,0,8,6,NA,NA,NA
+"23","Baseline (T0)",45,"Female","Black or African-American","Attending",36.6,78,18,98,147,97,"No Dog",2,6,6,4,8,6,2,6,6,NA,NA,NA,0,6,6,NA,NA,NA
+"25","Baseline (T0)",25,"Female","Black or African-American","Attending",36.9,90,16,100,137,99,"No Dog",10,8,9,4,6,8,8,8,9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","Baseline (T0)",31,"Female","Black or African-American","Attending",36.6,64,18,98,135,83,"No Dog",8,6,2,6,6,6,2,0,2,6,4,4,NA,NA,NA,NA,NA,NA
+"30","Baseline (T0)",50,"Female","Black or African-American","Resident",36.4,87,18,98,154,91,"No Dog",10,2,6,6,6,8,6,8,8,NA,NA,NA,8,8,8,NA,NA,NA
+"32","Baseline (T0)",36,"Female","White","Advanced Practitioner",36.9,72,18,96,169,118,"No Dog",9,0,4,10,8,6,9,0,2,8,6,6,NA,NA,NA,NA,NA,NA
+"33","Baseline (T0)",30,"Female","White","Resident",37.2,91,20,100,171,101,"No Dog",6,10,10,6,10,10,2,10,8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","Baseline (T0)",35,"Male","White","Resident",36.6,87,20,100,115,68,"No Dog",0,0,2,2,2,6,0,0,2,6,4,4,NA,NA,NA,NA,NA,NA
+"39","Baseline (T0)",56,"Female","White","Resident",36.4,95,28,90,146,87,"No Dog",6,0,8,2,NA,8,6,6,6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","Baseline (T0)",34,"Female","Black or African-American","Resident",36.8,96,16,98,143,18,"No Dog",10,2,4,6,2,6,8,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","Baseline (T0)",36,"Female","White","Attending",36.9,69,18,95,196,113,"No Dog",4,4,6,2,0,4,4,4,6,0,0,0,NA,NA,NA,NA,NA,NA
+"44","Baseline (T0)",32,"Male","White","Resident",36.9,114,18,99,114,86,"No Dog",0,2,4,0,8,8,2,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","Baseline (T0)",62,"Female","White","Advanced Practitioner",36.9,63,18,95,116,65,"No Dog",8,6,6,8,6,6,8,4,6,NA,NA,NA,10,4,9,8,6,4
+"48","Baseline (T0)",62,"Female","Black or African-American","Advanced Practitioner",36.5,102,21,97,115,101,"No Dog",1,0,2,4,4,4,1,1,0,NA,NA,NA,1,0,0,4,4,4
+"49","Baseline (T0)",47,NA,"Black or African-American","Attending",36.6,96,18,100,120,86,"No Dog",0,10,10,0,6,6,3,10,10,NA,NA,NA,0,0,10,NA,NA,NA
+"50","Baseline (T0)",40,"Male","White","Attending",37.2,111,NA,98,148,84,"No Dog",2,0,2,0,2,6,0,0,0,NA,NA,NA,2,0,0,NA,NA,NA
+"51","Baseline (T0)",27,"Male","White","Resident",36.5,80,16,98,108,72,"No Dog",5,10,10,2,10,8,2,10,10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","Baseline (T0)",40,"Female","White","Attending",36.7,90,18,98,135,62,"No Dog",10,8,10,10,6,6,8,8,10,NA,NA,NA,7,8,9,4,6,4
+"58","Baseline (T0)",57,"Female","White","Advanced Practitioner",36.8,80,18,94,151,76,"No Dog",8,4,4,4,4,6,8,4,4,NA,NA,NA,8,8,8,NA,NA,NA
+"60","Baseline (T0)",19,"Female","White","Resident",36.7,76,16,98,107,67,"No Dog",6,7,10,8,4,6,10,7,8,NA,NA,NA,8,7,8,NA,NA,NA
+"62","Baseline (T0)",44,"Male","White","Resident",36.7,85,18,99,153,135,"No Dog",8,8,8,4,6,8,8,8,8,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","Baseline (T0)",27,"Female","American Indian or Alaskan Native","Resident",37,107,18,100,125,41,"No Dog",7,4,5,8,8,6,8,4,3,NA,NA,NA,6,3,3,NA,NA,NA
+"67","Baseline (T0)",71,"Female","Black or African-American","Advanced Practitioner",36.6,57,16,100,144,66,"No Dog",4,0,6,0,2,4,3,0,4,NA,NA,NA,3,0,4,NA,NA,NA
+"70","Baseline (T0)",30,"Female","Black or African-American","Resident",37.2,87,20,100,108,86,"No Dog",10,4,4,8,6,6,10,4,4,NA,NA,NA,8,4,6,NA,NA,NA
+"71","Baseline (T0)",22,"Female","More than one race","Resident",37.4,115,18,100,141,78,"No Dog",10,6,4,10,6,6,7,2,4,NA,NA,NA,7,4,4,NA,NA,NA
+"76","Baseline (T0)",38,"Female","White","Attending",36.8,103,20,98,137,107,"No Dog",8,6,4,6,4,6,8,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","Baseline (T0)",39,"Female","White","Resident",36.6,114,28,99,132,75,"No Dog",10,4,8,8,8,8,6,4,6,NA,NA,NA,5,4,4,NA,NA,NA
+"80","Baseline (T0)",43,"Male","White","Resident",36.7,95,22,99,156,86,"No Dog",6,6,8,4,8,6,4,6,6,NA,NA,NA,4,4,6,2,4,4
+"81","Baseline (T0)",27,"Female","White","Attending",36.7,106,18,98,119,71,"No Dog",0,7,4,0,4,6,0,0,2,0,4,6,NA,NA,NA,NA,NA,NA
+"82","Baseline (T0)",43,"Female","Black or African-American","Attending",36.8,69,20,99,140,93,"No Dog",10,8,6,6,2,6,8,8,6,NA,NA,NA,8,6,6,NA,NA,NA
+"85","Baseline (T0)",37,"Female","Black or African-American","Advanced Practitioner",36.8,106,20,98,136,89,"No Dog",10,4,4,6,4,4,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA

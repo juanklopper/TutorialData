@@ -1,0 +1,312 @@
+Mortality,Age,WCC,HB,Diabetes,Class
+Died,69,12,11.7,None,Non-infectious
+Died,73,9,13.2,None,Non-infectious
+Died,53,16.4,11.1,None,Non-infectious
+Died,74,10.1,11.2,Type II,Infectious
+Died,69,10.2,15,Type I,Infectious
+Died,54,11.3,14.8,Type II,Non-infectious
+Died,71,11,13,Type I,Infectious
+Died,47,7.8,7.2,None,Infectious
+Died,56,19,9.4,Type I,Non-infectious
+Died,45,16.3,13.7,Type II,Non-infectious
+Died,69,14.4,10.5,None,Non-infectious
+Died,51,7.1,17.1,Type I,Infectious
+Died,74,21.3,18,Type I,Non-infectious
+Died,66,7.4,14.9,None,Infectious
+Died,57,15.5,6.2,None,Non-infectious
+Died,68,17.2,4.9,Type II,Infectious
+Died,53,14.8,13.3,None,Infectious
+Died,45,9.2,11.4,None,Non-infectious
+Died,74,10.8,12.2,Type I,Infectious
+Died,45,16.6,14.8,None,Infectious
+Died,74,11.2,10.9,Type I,Non-infectious
+Died,60,9.8,12.2,None,Infectious
+Died,49,4,15,Type I,Non-infectious
+Died,45,12.8,16.7,Type I,Infectious
+Died,51,17.1,12.5,None,Infectious
+Died,63,8.6,8.8,Type I,Non-infectious
+Died,61,14.2,17.4,Type I,Non-infectious
+Died,54,5.2,13.6,Type I,Infectious
+Died,74,15.1,13.3,Type I,Infectious
+Died,48,19.5,14.5,None,Non-infectious
+Died,68,16,7.2,None,Non-infectious
+Died,75,8.1,15.8,Type II,Non-infectious
+Died,72,10.2,13.1,None,Non-infectious
+Died,49,9.2,14,None,Infectious
+Died,51,5.9,11.3,Type II,Infectious
+Died,64,6.6,9.8,None,Infectious
+Died,61,12.7,14.2,Type II,Non-infectious
+Died,61,10.6,10.5,None,Non-infectious
+Died,49,25.6,6.9,None,Non-infectious
+Died,75,7.8,16.2,None,Non-infectious
+Died,69,14.6,9.8,Type I,Infectious
+Died,60,18,15.1,None,Non-infectious
+Died,65,9.8,14.2,Type I,Non-infectious
+Died,55,7.5,14.3,Type II,Non-infectious
+Died,63,15.7,11.8,None,Infectious
+Died,72,10.2,13.8,Type I,Infectious
+Died,62,15.3,12.5,None,Infectious
+Died,59,10.1,9.2,Type II,Non-infectious
+Died,73,14.2,13,Type II,Infectious
+Died,59,16,7.1,Type I,Infectious
+Died,45,30.8,11.1,Type I,Infectious
+Died,67,-0.8,10.3,Type II,Non-infectious
+Died,53,12.3,17.1,Type I,Non-infectious
+Died,55,15.3,17.9,None,Infectious
+Died,60,11.1,12.6,Type II,Non-infectious
+Died,61,11.5,9.2,None,Infectious
+Died,69,15.9,16.8,None,Non-infectious
+Died,71,16.7,10.2,Type I,Non-infectious
+Died,45,0.8,9.8,Type I,Infectious
+Died,74,11.7,14.8,None,Infectious
+Died,51,15.8,9.8,Type I,Infectious
+Died,68,13.9,10.4,Type I,Non-infectious
+Died,48,13.7,11.3,None,Non-infectious
+Died,49,22.3,13,None,Non-infectious
+Died,65,17.6,11.7,Type I,Infectious
+Died,48,14.6,13.5,None,Non-infectious
+Died,61,14.8,7.6,Type I,Infectious
+Died,73,2,15.4,None,Non-infectious
+Died,64,10.2,13.2,None,Infectious
+Died,73,15.8,9.8,None,Non-infectious
+Died,74,10.2,15,None,Non-infectious
+Died,75,7.7,11.9,Type I,Infectious
+Died,52,9.9,8.3,None,Non-infectious
+Died,52,15.3,15.7,None,Infectious
+Died,66,17.4,14.4,Type I,Infectious
+Died,70,8.2,13,None,Non-infectious
+Died,57,17.1,12.8,Type I,Infectious
+Died,55,10.7,20.2,None,Infectious
+Died,69,15.9,13.5,Type I,Non-infectious
+Died,46,15,12.5,None,Non-infectious
+Died,50,14.7,8.4,Type I,Non-infectious
+Died,50,9.3,13.8,None,Non-infectious
+Died,61,8.5,8.7,None,Infectious
+Died,63,7.8,10.9,Type II,Infectious
+Died,62,16,12.9,None,Infectious
+Died,52,14,15.2,Type I,Non-infectious
+Died,69,13.2,18.1,Type II,Infectious
+Died,54,3.8,14.9,Type II,Non-infectious
+Died,47,4.2,12.2,Type I,Infectious
+Died,53,7.2,14.9,None,Non-infectious
+Died,64,15.6,11,Type II,Non-infectious
+Died,75,18.2,12.6,Type I,Non-infectious
+Died,58,12.8,11.1,None,Infectious
+Died,59,13.5,14.7,Type I,Non-infectious
+Died,69,22.3,15.3,Type I,Infectious
+Died,58,12.9,16.7,None,Non-infectious
+Survived,49,8.8,15,Type I,Non-infectious
+Survived,57,12.8,18,Type II,Infectious
+Survived,57,6.3,13.7,Type I,Non-infectious
+Survived,56,5.6,15.8,None,Non-infectious
+Survived,48,9.6,15.2,Type I,Non-infectious
+Died,49,9.2,14.1,Type II,Infectious
+Survived,47,10.8,11.9,None,Non-infectious
+Survived,59,15.4,16.2,Type II,Infectious
+Survived,60,4.9,12,None,Non-infectious
+Survived,43,7.4,13.8,None,Infectious
+Survived,62,7.9,13.1,Type II,Infectious
+Survived,53,9.8,11.3,None,Non-infectious
+Survived,59,5.5,9,None,Infectious
+Survived,51,13,14.7,None,Non-infectious
+Survived,55,6.7,11.4,None,Infectious
+Survived,49,11.3,15.6,Type II,Non-infectious
+Survived,49,7.5,13.3,Type II,Infectious
+Survived,50,10.7,11.6,Type I,Non-infectious
+Survived,51,7.1,14.6,Type II,Infectious
+Survived,44,12.5,14.8,None,Non-infectious
+Survived,46,6.5,13.9,None,Infectious
+Survived,51,4.2,10.9,Type I,Non-infectious
+Survived,48,14.5,11.5,None,Non-infectious
+Survived,51,10.5,12.6,Type I,Non-infectious
+Survived,80,7.4,13.3,Type I,Non-infectious
+Survived,63,4.7,12.2,Type II,Non-infectious
+Survived,61,16.1,13.9,Type I,Non-infectious
+Survived,44,10.7,12.2,Type II,Infectious
+Survived,41,7.3,7.9,Type I,Non-infectious
+Survived,73,10.2,13.1,None,Infectious
+Survived,57,11.7,16.6,None,Non-infectious
+Survived,45,11,13.3,None,Non-infectious
+Survived,50,9.3,11.5,Type II,Infectious
+Survived,53,5.2,11.4,Type I,Non-infectious
+Survived,53,7.8,14.6,None,Non-infectious
+Survived,50,12.3,13,Type II,Non-infectious
+Survived,56,3.4,13.4,Type I,Non-infectious
+Survived,58,10.7,15.8,None,Non-infectious
+Survived,58,6.6,13.9,Type II,Non-infectious
+Survived,67,11.4,15.4,Type II,Non-infectious
+Survived,56,5.6,15,Type I,Infectious
+Survived,60,11.8,15.9,Type I,Infectious
+Survived,73,11,14.9,Type II,Infectious
+Survived,45,5.8,14.6,Type I,Non-infectious
+Survived,61,8.1,11.8,Type II,Infectious
+Survived,61,12.9,17,None,Non-infectious
+Survived,54,11.3,15.7,None,Non-infectious
+Survived,47,7.3,15.5,Type I,Non-infectious
+Survived,49,10.4,14.2,Type II,Infectious
+Survived,35,10.4,12.5,Type I,Non-infectious
+Survived,84,12.8,12.9,Type II,Non-infectious
+Survived,64,10.3,12.9,Type I,Non-infectious
+Survived,52,9.4,9.3,Type I,Infectious
+Survived,69,6.9,15.3,Type II,Infectious
+Survived,63,8.6,12.9,None,Non-infectious
+Survived,49,2.1,12.2,None,Non-infectious
+Survived,40,11.3,18.1,Type I,Infectious
+Survived,36,9.7,11.9,Type II,Non-infectious
+Survived,40,10.1,13.1,Type I,Infectious
+Survived,72,4.4,14.3,None,Non-infectious
+Survived,57,2.9,14.4,Type II,Infectious
+Survived,69,13.2,15,Type II,Non-infectious
+Survived,47,8.5,13.6,Type II,Infectious
+Survived,50,8.8,16.9,None,Non-infectious
+Survived,49,6.2,18.6,Type II,Infectious
+Survived,47,6,13.1,None,Non-infectious
+Survived,64,6.6,16.1,Type II,Infectious
+Survived,48,10.1,14.2,None,Non-infectious
+Survived,53,7.3,9.9,Type II,Infectious
+Survived,52,6.8,12.6,Type II,Infectious
+Survived,80,5.3,14.7,None,Non-infectious
+Survived,51,13.7,12.6,None,Non-infectious
+Survived,57,8.3,12.6,Type II,Infectious
+Survived,73,5,17.7,Type II,Non-infectious
+Survived,57,8.3,13.9,Type I,Non-infectious
+Survived,56,13.9,14.6,Type II,Infectious
+Survived,57,8.8,17.3,Type II,Infectious
+Survived,76,6.4,13.5,Type II,Infectious
+Survived,54,15.3,12.7,Type II,Infectious
+Survived,53,12.6,16.5,None,Non-infectious
+Survived,45,10,14.2,Type II,Non-infectious
+Survived,51,11.8,11.7,Type II,Infectious
+Survived,62,10.9,10.6,Type II,Infectious
+Survived,56,12.5,13.6,Type II,Infectious
+Survived,55,9.3,13.6,None,Non-infectious
+Survived,53,9.1,15.9,Type II,Non-infectious
+Survived,63,6,14.8,None,Non-infectious
+Survived,37,9.2,17.2,Type II,Infectious
+Survived,58,8.8,14.2,Type II,Infectious
+Survived,65,6.6,10.9,Type II,Infectious
+Survived,58,7.7,13.5,Type I,Non-infectious
+Survived,53,6.7,12.7,None,Non-infectious
+Survived,53,11.2,13.3,Type II,Infectious
+Survived,61,8.7,14.4,Type II,Infectious
+Survived,44,8.6,14.8,Type I,Non-infectious
+Survived,42,8.9,14.3,Type II,Infectious
+Survived,51,11,13,Type II,Infectious
+Survived,48,10.3,15.2,Type II,Infectious
+Survived,40,12.3,12.7,Type II,Infectious
+Survived,31,8.4,15.3,Type II,Infectious
+Survived,59,8.7,14.3,Type II,Non-infectious
+Survived,59,9.8,11.7,None,Non-infectious
+Survived,42,13.4,17.9,Type II,Infectious
+Survived,55,7.2,15.2,Type II,Infectious
+Survived,36,15,18.1,Type I,Non-infectious
+Survived,41,10.2,15.3,Type I,Non-infectious
+Survived,42,6.7,13.8,Type II,Infectious
+Survived,53,10.4,15.6,None,Non-infectious
+Survived,53,9,15.6,Type II,Infectious
+Survived,58,3.7,15.8,None,Non-infectious
+Survived,37,11.3,11.9,Type I,Non-infectious
+Survived,58,15.4,11.5,Type II,Infectious
+Survived,52,7.2,15.4,Type I,Non-infectious
+Survived,39,12.7,12.1,None,Non-infectious
+Survived,62,7.3,16.1,Type II,Infectious
+Survived,73,6.7,14.6,Type II,Infectious
+Survived,56,9.3,12.7,None,Non-infectious
+Survived,54,12.6,13.4,Type II,Infectious
+Survived,66,9.8,16.2,Type II,Non-infectious
+Survived,53,8.6,17.6,Type I,Non-infectious
+Survived,58,9.4,18.4,Type II,Infectious
+Survived,41,9.3,13.6,Type II,Non-infectious
+Survived,66,10,12.1,Type II,Non-infectious
+Survived,60,10.5,11.8,Type II,Non-infectious
+Survived,39,10.4,13.2,Type II,Infectious
+Survived,35,2.7,12.9,None,Non-infectious
+Survived,74,8.8,12.9,Type I,Non-infectious
+Survived,71,6.3,16.7,Type II,Infectious
+Survived,66,12.4,15.2,Type II,Infectious
+Survived,57,7.5,17.8,None,Non-infectious
+Survived,34,8.9,13.5,Type II,Infectious
+Survived,85,7.4,13.8,Type II,Non-infectious
+Survived,44,4.2,11.2,Type II,Infectious
+Survived,42,13.5,15.2,Type II,Infectious
+Survived,40,13.1,13.6,Type II,Infectious
+Survived,54,5.2,14.2,Type II,Infectious
+Survived,44,12.9,13.8,Type I,Non-infectious
+Survived,75,1.8,14.6,Type I,Non-infectious
+Survived,41,10.7,15,Type II,Infectious
+Survived,40,11.8,17,Type II,Infectious
+Survived,48,10.6,15.8,Type II,Infectious
+Survived,56,9.1,16.8,Type II,Non-infectious
+Survived,46,11.6,11.3,Type II,Non-infectious
+Survived,47,11.4,15.3,Type II,Infectious
+Survived,57,10.5,14.3,Type II,Infectious
+Survived,63,9.5,15,Type II,Infectious
+Survived,42,7,12.4,Type II,Infectious
+Survived,47,9,14.1,Type II,Infectious
+Survived,67,6.9,16.4,Type II,Infectious
+Survived,34,9.3,14.8,None,Non-infectious
+Survived,43,14.4,13.5,Type II,Infectious
+Survived,53,10.9,13.5,Type I,Non-infectious
+Survived,61,10,13.6,Type II,Non-infectious
+Survived,53,12.1,13.7,None,Non-infectious
+Survived,53,11.3,14.1,Type II,Infectious
+Survived,63,8.7,15.2,None,Non-infectious
+Survived,66,8.6,15.5,Type II,Non-infectious
+Survived,73,9.6,14.1,None,Non-infectious
+Survived,36,9.1,13.9,Type II,Infectious
+Survived,58,8.6,17.5,Type II,Non-infectious
+Survived,23,8.2,17.4,Type II,Infectious
+Survived,66,10.9,13.7,Type I,Non-infectious
+Survived,56,11.4,16.5,None,Non-infectious
+Survived,53,10,14.3,Type II,Infectious
+Survived,44,6.1,13.3,Type II,Infectious
+Survived,67,7.7,14.3,None,Non-infectious
+Survived,50,6.6,16.1,Type II,Infectious
+Survived,50,7.4,15.2,Type II,Infectious
+Survived,49,12.6,14.4,Type II,Infectious
+Survived,49,8.2,16.6,Type I,Non-infectious
+Survived,51,8.3,15.7,Type II,Infectious
+Survived,57,3.8,12.9,Type II,Infectious
+Survived,60,9.6,14.1,Type II,Infectious
+Survived,56,6.6,15.9,None,Non-infectious
+Survived,47,8.4,16,Type II,Infectious
+Survived,48,10.4,18.3,Type II,Infectious
+Survived,73,11.6,12.1,Type I,Non-infectious
+Survived,69,6,16,Type II,Infectious
+Survived,62,10.6,11.4,Type II,Infectious
+Survived,59,12.7,10.8,None,Non-infectious
+Survived,54,13.3,13.8,Type II,Infectious
+Survived,66,7.1,13.5,Type I,Non-infectious
+Survived,68,9.5,13.6,None,Non-infectious
+Survived,55,6.9,13,Type II,Non-infectious
+Survived,45,7.9,13.6,Type I,Non-infectious
+Survived,59,8.8,13.3,None,Non-infectious
+Survived,56,10.1,16.8,Type II,Infectious
+Survived,54,12.3,17.4,Type I,Non-infectious
+Survived,70,7.9,12.8,Type II,Non-infectious
+Survived,59,7.3,11.7,Type II,Non-infectious
+Survived,47,10.3,12.2,Type II,Infectious
+Survived,51,10.9,11.4,Type II,Infectious
+Survived,36,5.3,14,Type I,Non-infectious
+Survived,60,3.5,14.3,Type I,Non-infectious
+Survived,67,5.7,11.5,Type I,Infectious
+Survived,51,4.5,17.5,Type II,Infectious
+Survived,53,10.7,11.9,None,Non-infectious
+Survived,73,7.3,12.1,Type I,Non-infectious
+Survived,40,8.7,10.2,Type II,Infectious
+Survived,38,9.1,11.8,Type I,Non-infectious
+Survived,82,3.7,13.4,Type I,Infectious
+Survived,65,9.9,15.1,None,Non-infectious
+Survived,34,8.8,17.1,Type II,Infectious
+Survived,59,6.5,11.9,Type II,Infectious
+Died,66,14.3,12.9,Type II,Infectious
+Died,56,14.4,13.9,Type II,Infectious
+Died,67,16.1,13.9,Type II,Infectious
+Died,76,12.1,11.9,Type II,Non-infectious
+Died,77,8.8,10.9,Type II,Non-infectious
+Died,77,8.9,11.8,Type II,Non-infectious
+Died,75,8.4,11,Type I,Non-infectious
+Survived,56,14,9,None,Infectious
+Survived,45,15,9.9,None,Infectious
+Survived,45,15.2,7,None,Infectious
+Survived,54,16,10,None,Infectious
